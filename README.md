@@ -1,5 +1,5 @@
 # Shape-Agenda-v1.0
 
-COMMITED FROM THE WEB
+Shape Agenda Game is used to gain more focus with shapes and colors witth you Hand-Eye Coordination.
 
-COMMITED FROM THE LOCAL
+You may Pull the Project Code (Open Source). "Shape Agenda"
